@@ -11,6 +11,9 @@ Sales Data: The Primary dataset used for this analysis is the "Sales data.csv" f
 
 ### Tools
 
-- Excel
+- Excel - Data Cleaning [Download here](https://microsoft.com)
 - SQL
 - PowerBI
+
+### Data Cleaning/Preparation
+
