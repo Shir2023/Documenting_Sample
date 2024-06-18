@@ -8,6 +8,7 @@
 
 ### Project Overview
 
+---
 This project aims to provide insights into to the sales performance of Jumia E-Commerce Market over the past years. By analysing various aspect of the sales data, we wish to identify trends, make data drivens recommedations and gain a deeper understanding of the companies performance.
 
 
@@ -71,6 +72,19 @@ I had to remove all zero values from budget and revenue columns because they wou
 
 1. SQL for Businesses by Werty.
 2. [Stack Overflow](https://stack.com)
+
+😄
+
+💻
+
+|Heading1|Heading2|
+|--------|--------|
+|Content|Content2|
+|SQL|PowerBI|
+
+**bold**
+
+*Italic*
    
 
 
