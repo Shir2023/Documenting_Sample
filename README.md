@@ -55,7 +55,7 @@ The findings results are summaried as follows;
 ### Recommendations
 
 Based on the analysis we recommed the following actions:
-- Invest in marketing and promotions during peak sales season to maximize revenue
+- Invest in marketing and promotions during peak sales season to maximize revenue.
 - Focus on expanding and promoting product in category A
 - Implemet a customer segmentation stategy to target high-LTV customers effectively.
 
