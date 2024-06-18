@@ -35,7 +35,7 @@ In the initial data preparation phase, we performed the following tasks:
 
 ### Exploratory Data Analysis
 
-EDA invilved Exploring the sales data to answer key questions such as:
+EDA involved Exploring the sales data to answer key questions such as:
 
 - What is the overall sales trend?
 - Which product are top sellers?
