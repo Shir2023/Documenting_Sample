@@ -10,6 +10,10 @@
 
 This project aims to provide insights into to the sales performance of Jumia E-Commerce Market over the past years. By analysing various aspect of the sales data, we wish to identify trends, make data drivens recommedations and gain a deeper understanding of the companies performance.
 
+
+![Screenshot 2024-06-18 140839](https://github.com/Shir2023/Documenting_Sample/assets/145821310/e95131d1-0506-4da9-9807-08163f4fbccd)
+
+
 ### Data Source
 
 Sales Data: The Primary dataset used for this analysis is the "Sales data.csv" file, containing detailed information about each sales made by the company.
