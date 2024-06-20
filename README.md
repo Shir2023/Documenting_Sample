@@ -1,4 +1,4 @@
-# E-Commerce Sales Analysis
+C# E-Commerce Sales Analysis
 
 ## Table of Contents
 
@@ -21,7 +21,8 @@ Sales Data: The Primary dataset used for this analysis is the "Sales data.csv" f
 
 ### Tools
 
-- Excel - Data Cleaning [Download here](https://microsoft.com)
+- Excel - Data Cleaning
+   - [Download here](https://microsoft.com)
 - SQL - Data Analysis
 - PowerBI - Creating Reports
 
@@ -75,12 +76,16 @@ I had to remove all zero values from budget and revenue columns because they wou
 
 😄
 
+:com
+:smile
+
 💻
 
 |Heading1|Heading2|
 |--------|--------|
 |Content|Content2|
 |SQL|PowerBI|
+
 
 **bold**
 
